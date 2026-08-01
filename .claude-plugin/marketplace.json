@@ -12,7 +12,7 @@
         "url": "https://github.com/stefanobaghino/simple-output-styles.git",
         "path": "plugin"
       },
-      "description": "An output style with clear and simple writing rules, adapted from ASD-STE100 Issue 9 for chat and code work."
+      "description": "Output styles with clear and simple writing rules, adapted from ASD-STE100 Issue 9 and the Federal Plain Language Guidelines for chat and code work."
     }
   ]
 }
