@@ -4,7 +4,7 @@ This repository is a Claude Code plugin marketplace by Stefano Baghino. It holds
 
 ## Plugins
 
-- [simple-output-styles](https://github.com/stefanobaghino/simple-output-styles) — Output styles with clear and simple writing rules, adapted from ASD-STE100 Issue 9 and the Federal Plain Language Guidelines for chat and code work.
+- [simple-output-styles](https://github.com/stefanobaghino/simple-output-styles) — Output styles that make Claude write clearly, for everyone.
 
 ## How to install a plugin
 
