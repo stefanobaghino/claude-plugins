@@ -1,6 +1,6 @@
 # Claude plugins
 
-This repository is a Claude Code plugin marketplace by Stefano Baghino. It holds only the catalog; each plugin lives in its own repository.
+This repository is a Claude Code plugin marketplace. It holds only the catalog; each plugin lives in its own repository.
 
 ## Plugins
 
