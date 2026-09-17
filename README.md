@@ -5,6 +5,7 @@ This repository is a Claude Code plugin marketplace. It holds only the catalog; 
 ## Plugins
 
 - [simple-output-styles](https://github.com/stefanobaghino/simple-output-styles) — Output styles that make Claude write clearly, for everyone.
+- [fooble](https://github.com/stefanobaghino/fooble) — Discover fooby.ch recipes by ingredient through a fooble MCP server.
 
 ## How to install a plugin
 
