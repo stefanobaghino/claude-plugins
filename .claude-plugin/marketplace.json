@@ -14,6 +14,16 @@
         "path": "plugin"
       },
       "description": "Output styles that make Claude write clearly, for everyone."
+    },
+    {
+      "name": "fooble",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/stefanobaghino/fooble.git",
+        "path": "plugin"
+      },
+      "description": "Discover fooby.ch recipes by ingredient through a fooble MCP server.",
+      "license": "AGPL-3.0-or-later"
     }
   ]
 }
