@@ -24,6 +24,14 @@
       },
       "description": "Discover fooby.ch recipes by ingredient through a fooble MCP server.",
       "license": "AGPL-3.0-or-later"
+    },
+    {
+      "name": "good-citizen",
+      "source": {
+        "source": "git",
+        "url": "https://github.com/stefanobaghino/good-citizen.git"
+      },
+      "description": "Claude Code hooks that make Claude a considerate collaborator: clean commits and PRs, safe pushes, conforming branches."
     }
   ]
 }
