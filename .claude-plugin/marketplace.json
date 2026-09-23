@@ -28,7 +28,7 @@
     {
       "name": "good-citizen",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/stefanobaghino/good-citizen.git"
       },
       "description": "Claude Code hooks that make Claude a considerate collaborator: clean commits and PRs, safe pushes, conforming branches."
